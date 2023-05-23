@@ -2,12 +2,12 @@ body{
     margin: 0;
 }
 
-.banner{
-    width: 100%;
-}
-
 .tituloPrincipal{
     padding-left: 30px;
+}
+
+.banner{
+    width: 100%;
 }
 
 .main{
